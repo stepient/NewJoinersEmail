@@ -42,6 +42,5 @@ $Params = @{
 }
 
 Register-ScheduledTask @Params
-
-
+pause
 
